@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Welcome to Math Utility Repository. This repo offers various
 math methods used as a helper for your project.
 
@@ -12,3 +13,8 @@ math methods used as a helper for your project.
 [My email](mailto: smallmouse3121@gmail.com)
 
 © 2021 tam dep trai
+=======
+## Welcome to Math Utility Repository. This repo offers various math methods used as a helper for your project.
+### You will find in this repo the following stuff:
+* .gitignore file itself
+>>>>>>> 82a1ba6662c5d84f615e11e6c4125f3e87dabc85
