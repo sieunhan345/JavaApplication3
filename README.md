@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-## Welcome to Math Utility Repository. This repo offers various
-math methods used as a helper for your project.
 
-###You will find in this repo the following stuff:
+## Welcome to Math Utility Repository. This repo offers various math methods used as a helper for your project.
+### You will find in this repo the following stuff:
+
 * .gitignore file itself to demonstrate how to ask the Git tool to upload a file or not
 * README.md file itself to show the Home page of this repo
 * All of math methods located in the src\ folder to support for the math calculation in your project
@@ -14,7 +13,4 @@ math methods used as a helper for your project.
 
 © 2021 tam dep trai
 =======
-## Welcome to Math Utility Repository. This repo offers various math methods used as a helper for your project.
-### You will find in this repo the following stuff:
-* .gitignore file itself
->>>>>>> 82a1ba6662c5d84f615e11e6c4125f3e87dabc85
+
