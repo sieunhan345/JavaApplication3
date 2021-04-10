@@ -1,7 +1,7 @@
 
 ## Welcome to Math Utility Repository. This repo offers various math methods used as a helper for your project.
-<<<<<<< HEAD
-### You will find in this repo the following stuff:_*
+
+### You will find in this repo the following stuff:
 
 =======
 ### You will find in this repo the following stuff:
